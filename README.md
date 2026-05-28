@@ -56,21 +56,6 @@ Performed analysis on:
 ### Visualization
 
 Generated automated visualizations using matplotlib and seaborn to better understand trends and patterns within the dataset.
-
----
-
-## Project Structure
-
-```text
-python-healthcare-data-cleaning/
-│
-├── data_cleaning.py
-├── cleaned_healthcare_data.csv
-├── README.md
-├── plots/
-└── screenshots/
-```
-
 ---
 
 ## Key Learnings
